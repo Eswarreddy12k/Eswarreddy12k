@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eswarreddy12k
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on developing some fun websites
+- 👀 I’m interested in AIML and Web Development
+- 🌱 I’m currently building a few projects on AI
+- 💞️ I’m looking to collaborate on developing some fun projects
 - ping me at eswarreddy7999@gmail.com
 
 <!---
